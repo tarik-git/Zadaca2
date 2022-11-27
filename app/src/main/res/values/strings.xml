@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zadaca2</string>
+    <string name="my_shows">My shows</string>
+    <string name="discover">Discover</string>
+    <string name="status">Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
